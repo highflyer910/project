@@ -27,7 +27,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 	.img1{
 		background: url('../assets/home.jpg');
 	}
