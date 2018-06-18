@@ -21,7 +21,7 @@
 <script>
 
 export default {
-  name: 'one'
+  name: 'two'
 }
 </script>
 
